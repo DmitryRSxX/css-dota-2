@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background: url(https://cq-esports.com/storage/uploads/posts/974773/cri/artt___media_library_original_1920_1087.jpeg);
+    color: #0f141e; 
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "Roboto", sans serif;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    text-shadow: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: black;
+}
+
+.four {
+    font: 1,5em Arial, sans-serif;
+    color: #0f141e;
+    text-shadow:red 1px 1px 0, red -1px -1px 0, 
+    red -1px 1px 0, red 1px -1px 0;
+}

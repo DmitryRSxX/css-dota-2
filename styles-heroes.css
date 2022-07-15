@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background: url(https://i.playground.ru/i/pix/1799503/image.jpg);
+    color: #0f141e; 
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "Roboto", sans serif;
+}
+
+.axe {
+    width: 150px;
+    height: 150px;
+}
+
+.drow-ranger {
+    width: 150px;
+    height: 150px;
+}
+
+.jakiro {
+    width: 150px;
+    height: 150px;
+}
+
+h1 {
+    text-shadow: none;
+    color: red;
+}
+
+.one {
+    font: 1,5em Arial, sans-serif;
+    color: #0f141e;
+    text-shadow:red 1px 1px 0, red -1px -1px 0, 
+    red -1px 1px 0, red 1px -1px 0;
+}

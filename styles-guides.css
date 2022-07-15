@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background: url(https://ggdt.ru/file/2020/04/dota_2_logo_emblem_510948_2048x1152.jpg);
+    color: #0f141e; 
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "Roboto", sans serif;
+}
+
+.one {
+    text-align: left;
+    text-align: justify;
+    text-indent: 30px;
+    word-wrap: break-word;
+    width: 500px;
+    font: 1,5em Arial, sans-serif;
+    color: #0f141e;
+    text-shadow:red 1px 1px 0, red -1px -1px 0, 
+    red -1px 1px 0, red 1px -1px 0;
+}
+
+.two {
+    font: 1,5em Arial, sans-serif;
+    color: #0f141e;
+    text-shadow:red 1px 1px 0, red -1px -1px 0, 
+    red -1px 1px 0, red 1px -1px 0;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    text-shadow: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: black;
+}
